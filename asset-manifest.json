@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brasp_buse/static/css/main.e648d658.css",
+    "main.js": "/brasp_buse/static/js/main.72f0596a.js",
+    "static/media/honka_animated-256px-14.gif": "/brasp_buse/static/media/honka_animated-256px-14.35338859d21ff37c9719.gif",
+    "static/media/123.jpg": "/brasp_buse/static/media/123.b1be1f6abe25f1248c34.jpg",
+    "static/media/B52.woff2": "/brasp_buse/static/media/B52.2cb8df36a0c29bcbdb5e.woff2",
+    "static/media/slick.svg": "/brasp_buse/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/brasp_buse/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/brasp_buse/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/brasp_buse/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/brasp_buse/index.html",
+    "main.e648d658.css.map": "/brasp_buse/static/css/main.e648d658.css.map",
+    "main.72f0596a.js.map": "/brasp_buse/static/js/main.72f0596a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e648d658.css",
+    "static/js/main.72f0596a.js"
+  ]
+}
