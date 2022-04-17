@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/brasp_buse/static/css/main.1670e072.css",
-    "main.js": "/brasp_buse/static/js/main.012fd349.js",
+    "main.js": "/brasp_buse/static/js/main.7f4b71e1.js",
     "static/media/123.jpg": "/brasp_buse/static/media/123.b1be1f6abe25f1248c34.jpg",
     "static/media/B52.woff2": "/brasp_buse/static/media/B52.2cb8df36a0c29bcbdb5e.woff2",
     "index.html": "/brasp_buse/index.html",
     "main.1670e072.css.map": "/brasp_buse/static/css/main.1670e072.css.map",
-    "main.012fd349.js.map": "/brasp_buse/static/js/main.012fd349.js.map"
+    "main.7f4b71e1.js.map": "/brasp_buse/static/js/main.7f4b71e1.js.map"
   },
   "entrypoints": [
     "static/css/main.1670e072.css",
-    "static/js/main.012fd349.js"
+    "static/js/main.7f4b71e1.js"
   ]
 }
